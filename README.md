@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 The MIT License (MIT)
 
-Copyright (c) 2024 Abhinav Parmar (https://codepen.io/Abhiii__/pen/OJKVZpV)
+Copyright (c) 2024 Abhinav Parmar (https://abhi-cyber918.github.io/sitck-man/)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
